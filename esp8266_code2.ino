@@ -1,3 +1,6 @@
+// http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+
 #include "Wire.h"
 #include "Adafruit_PWMServoDriver.h"
 Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(0x40);
